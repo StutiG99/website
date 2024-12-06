@@ -44,10 +44,10 @@
     <loc>http://localhost:4321/categories/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>http://localhost:4321/blog/social/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/social/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/theme-features/</loc>
@@ -116,10 +116,10 @@
     <loc>http://localhost:4321/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/package/</loc>
+    <loc>http://localhost:4321/project/aea-blog/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/giraffes/</loc>
+    <loc>http://localhost:4321/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/css-grid-scaffold/</loc>
