@@ -60,25 +60,10 @@ params:
   social:
     - icon: github
       icon_pack: fab
-      url: https://github.com/apreshill/apero
-    - icon: bluesky
+      url: https://github.com/StutiG99
+    - icon: linkedin
       icon_pack: fab
-      url: https://bsky.app/
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
-    - icon: x-twitter
-      icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
-    - icon: orcid
-      icon_pack: ai
-      url: http://orcid.org/0000-0002-8082-1890
-    - icon: rss
-      icon_pack: fas
-      url: /blog/index.xml
+      url: https://www.linkedin.com/in/stuti-goyal/
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
@@ -103,35 +88,19 @@ menu:
       title: Contact form
       url: /contact/
       weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
   header:
     - name: Resume
       title: Stuti Goyal's Resume
       url: /resume/
       weight: 1
-    - name: Blog
-      title: Blog
-      url: /blog/
-      weight: 2
     - name: Projects
       title: Project Portfolio
       url: /project/
-      weight: 3
+      weight: 2
     - name: Talks
       title: Talks
       url: /talk/
       weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
 privacy:
   disqus:
     disable: no
