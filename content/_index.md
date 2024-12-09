@@ -6,7 +6,7 @@ description: "With a degree in Quantitative Economics and Statistics & Data Scie
 image_right: true
 images:
 - img/picture_sg.jpg
-show_action_link: trye
+show_action_link: true
 show_social_links: true
 subtitle: About me
 text_align_left: true
