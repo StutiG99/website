@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: With a B.A. in Quantitative Economics and a minor in Statistics and Data Science from Smith College, through my work in the development sector, I have built a strong foundation in leveraging data to inform policy and practice. My career has spanned roles in research, monitoring, and program evaluation, working across global and grassroots organizations. I have consistently balanced high-level analytical rigor with on-the-ground implementation, engaging with diverse stakeholders to address complex challenges. This trajectory reflects a commitment to using data and productive collaborations to drive impactful and equitable solutions in the development sector.
+description: With a B.A. in Quantitative Economics and a minor in Statistics and Data Science from Smith College, through my work in the development sector, I have built a strong foundation in leveraging data to inform policy and practice. My career has spanned roles in research, monitoring, and program evaluation, working across global and grassroots organizations. I have consistently balanced high-level analytical rigor with on-the-ground implementation, engaging with diverse stakeholders to address complex challenges. I am committed to using novel data sources and fostering productive collaborations to drive equitable solutions in the development sector.
 image_right: true
 images:
 - img/picture_sg.jpg

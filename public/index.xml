@@ -146,7 +146,7 @@
       <link>http://localhost:4321/project/aea-blog/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/aea-blog/</guid>
-      <description>&lt;h1 id=&#34;because-speed&#34;&gt;Because Speed&#xA;  &lt;a href=&#34;#because-speed&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Building this static site generator theme was the first time I used an Atomic&#xA;(or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides&#xA;very small (which means fast) CSS modules that you can use in your HTML. So,&#xA;rather than writing every line of CSS, you apply the style you need as you write&#xA;your HTML with easy to understand shorthand class names. This makes for a very&#xA;powerful way to style, in the browser, or while building a static site like this&#xA;one – since you can see every change with every save. &lt;strong&gt;It&amp;rsquo;s a joy to use.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;because-speed&#34;&gt;Because Speed&#xA;  &lt;a href=&#34;#because-speed&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The &#xA;&lt;a href=&#34;https://www.povertyactionlab.org/blog/1-26-24/celebrating-decade-aea-rct-registry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AEA RCT Regsitry Ten-Year Anniverasy Blog&lt;/a&gt; featured on the &#xA;&lt;a href=&#34;https://blogs.worldbank.org/en/impactevaluations/weekly-links-february-16-7000-rcts-better-bar-graphs-dating-apps-and-platform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Bank Blogs&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CSS Grid Scaffold</title>
