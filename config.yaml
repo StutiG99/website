@@ -108,9 +108,9 @@ menu:
       url: /contributors/
       weight: 3
   header:
-    - name: About
-      title: About Blogophonic
-      url: /about/
+    - name: Resume
+      title: Stuti Goyal's Resume
+      url: /resume/
       weight: 1
     - name: Blog
       title: Blog
