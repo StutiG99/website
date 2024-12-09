@@ -2,100 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/collection/day02/01-netlify/</loc>
+    <loc>http://localhost:5149/collection/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/01-github/</loc>
+    <loc>http://localhost:5149/collection/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/prework/</loc>
+    <loc>http://localhost:5149/collection/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/</loc>
+    <loc>http://localhost:5149/collection/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/02-postcards/</loc>
+    <loc>http://localhost:5149/collection/day01/02-postcards/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/02-blogdown/</loc>
+    <loc>http://localhost:5149/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/</loc>
+    <loc>http://localhost:5149/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/03-distill/</loc>
+    <loc>http://localhost:5149/collection/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/03-blogdown/</loc>
+    <loc>http://localhost:5149/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/</loc>
+    <loc>http://localhost:5149/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>http://localhost:5149/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/campfire/</loc>
+    <loc>http://localhost:5149/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>http://localhost:5149/categories/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/</loc>
+    <loc>http://localhost:5149/talk/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/workshop/</loc>
+    <loc>http://localhost:5149/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/second-seedling/</loc>
+    <loc>http://localhost:5149/talk/second-seedling/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/meetup/</loc>
+    <loc>http://localhost:5149/categories/meetup/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/seedling/</loc>
+    <loc>http://localhost:5149/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/</loc>
+    <loc>http://localhost:5149/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/aea-blog/</loc>
+    <loc>http://localhost:5149/project/aea-blog/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/hugo-site/</loc>
+    <loc>http://localhost:5149/resume/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/package/</loc>
+    <loc>http://localhost:5149/tags/hugo-site/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/r/</loc>
+    <loc>http://localhost:5149/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>http://localhost:5149/categories/r/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/theme-features/</loc>
+    <loc>http://localhost:5149/tags/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/penguins/</loc>
+    <loc>http://localhost:5149/categories/theme-features/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5149/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/bakeoff/</loc>
+    <loc>http://localhost:5149/project/bakeoff/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/contact/</loc>
+    <loc>http://localhost:5149/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/form/</loc>
+    <loc>http://localhost:5149/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/elements/</loc>
+    <loc>http://localhost:5149/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/contributors/</loc>
+    <loc>http://localhost:5149/contributors/</loc>
   </url><url>
-    <loc>http://localhost:4321/license/</loc>
+    <loc>http://localhost:5149/license/</loc>
   </url><url>
-    <loc>http://localhost:4321/series/</loc>
+    <loc>http://localhost:5149/series/</loc>
   </url>
 </urlset>
