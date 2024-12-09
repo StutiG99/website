@@ -97,10 +97,6 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 2
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 3
 privacy:
   disqus:
     disable: no
