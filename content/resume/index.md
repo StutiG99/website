@@ -4,7 +4,6 @@ categories:
 - Theme Features
 - R
 - package
-date: "2019-07-03"
 draft: false
 excerpt: 
 layout: single

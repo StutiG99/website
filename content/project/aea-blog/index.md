@@ -4,7 +4,6 @@ categories:
 - Theme Features
 - R
 - package
-date: "2019-07-03"
 draft: false
 excerpt: Exploring the regional and sectoral take-up of the American Economic Association (AEA) Randomized Control Trials (RCT) Registry.
 layout: single
